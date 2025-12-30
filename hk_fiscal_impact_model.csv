@@ -1,0 +1,26 @@
+Year,Category,Amount,Type
+2025,Project Investment,50,Cost
+2026,Project Investment,45,Cost
+2027,Project Investment,42,Cost
+2028,Project Investment,40,Cost
+2029,Project Investment,40,Cost
+2025,Welfare Savings,10,Saving
+2026,Welfare Savings,25,Saving
+2027,Welfare Savings,45,Saving
+2028,Welfare Savings,60,Saving
+2029,Welfare Savings,70,Saving
+2025,Medical Diversion,5,Saving
+2026,Medical Diversion,15,Saving
+2027,Medical Diversion,35,Saving
+2028,Medical Diversion,55,Saving
+2029,Medical Diversion,70,Saving
+2025,Tax Revenue Recovered,0,Saving
+2026,Tax Revenue Recovered,10,Saving
+2027,Tax Revenue Recovered,30,Saving
+2028,Tax Revenue Recovered,55,Saving
+2029,Tax Revenue Recovered,80,Saving
+2025,Standard Maintenance Baseline,2,Baseline
+2026,Standard Maintenance Baseline,2,Baseline
+2027,Standard Maintenance Baseline,2,Baseline
+2028,Standard Maintenance Baseline,2,Baseline
+2029,Standard Maintenance Baseline,2,Baseline

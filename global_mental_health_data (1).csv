@@ -1,0 +1,24 @@
+Country,Model_Type,Development_Status,Employment_Rate,Readmission_Rate
+Hong Kong,Siloed,Developed,18,45
+Japan,Siloed,Developed,22,40
+S. Korea,Siloed,Developed,20,42
+Taiwan,Siloed,Developed,21,38
+China,Siloed,Developing,19,41
+France,Medical/Siloed,Developed,32,30
+Poland,Medical/Siloed,Developed,28,33
+Singapore,Partial,Developed,38,28
+Italy,Community,Developed,35,22
+Spain,Community,Developed,30,25
+New Zealand,Partial,Developed,36,29
+Belgium,Partial,Developed,34,27
+Austria,Partial,Developed,40,24
+UK,Integrated (IPS),Developed,55,15
+Netherlands,Integrated (IPS),Developed,58,14
+Germany,Integrated (IPS),Developed,53,17
+Denmark,Integrated (IPS),Developed,56,16
+Norway,Integrated (IPS),Developed,50,20
+Sweden,Integrated (IPS),Developed,46,23
+Switzerland,Integrated (IPS),Developed,44,25
+Australia,Integrated (IPS),Developed,52,18
+Canada,Integrated (IPS),Developed,50,20
+USA,Integrated (IPS),Developed,48,32
